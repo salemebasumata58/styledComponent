@@ -1,0 +1,14 @@
+.btn{
+    background-color: transparent;
+    border: none;
+
+    border-radius: 4px;
+    padding: 5px;
+    padding-top: 8px;
+    text-align: center;
+    cursor: pointer;
+    color: yellow;
+    background: blueviolet;
+    margin: 5px;
+
+}
